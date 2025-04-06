@@ -1,0 +1,5 @@
+mcp>=0.2.0
+starlette>=0.28.0
+uvicorn>=0.24.0
+httpx>=0.28.0
+python-multipart
