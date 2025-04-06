@@ -1,0 +1,1 @@
+web: python mcp_web_app.py
